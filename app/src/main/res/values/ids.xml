@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="txtmail" type="id" />
+    <item name="txtphone" type="id" />
+    <item name="txtphone1" type="id" />
+</resources>
